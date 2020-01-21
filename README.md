@@ -1,68 +1,112 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
-## Available Scripts
+<h3 align="center">testing-async-react</h3>
 
-In the project directory, you can run:
+<div align="center">
 
-### `yarn start`
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+<p align="center"> Few lines describing your project.
+    <br> 
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 Table of Contents
 
-### `yarn build`
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧐 About <a name = "about">Testing Async React.js</a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Welcome! I created the project boilerplate for this application with create-react-app. The purpose of this repo is as a sort of sandbox for learning new testing techniques, particularly asynchronous testing with jest.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-### `yarn eject`
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Prerequisites
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Give examples
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Installing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [install yarn] - MacOS - download homebrew **https://brew.sh/**. Once it is installed, to go a terminal window and type brew install yarn. This will install the yarn package manager, which you will need to install various dependencies. For this project, I have tried to keep ait fairly light on dependencies.
 
-## Learn More
+Say what the step will be
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+Give the example
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+And repeat
 
-### Code Splitting
+```
+until finished
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+End with an example of getting some data out of the system or using it for a little demo.
 
-### Analyzing the Bundle Size
+## 🔧 Running the tests <a name = "tests"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Explain how to run the automated tests for this system.
 
-### Making a Progressive Web App
+### Break down into end to end tests
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Explain what these tests test and why
 
-### Advanced Configuration
+```
+Give an example
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### And coding style tests
 
-### Deployment
+Explain what these tests test and why
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+```
+Give an example
+```
 
-### `yarn build` fails to minify
+## 🎈 Usage <a name="usage"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Add notes about how to use the system.
+
+## 🚀 Deployment <a name = "deployment"></a>
+
+Add additional notes about how to deploy this on a live system.
+
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+
+See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- References
